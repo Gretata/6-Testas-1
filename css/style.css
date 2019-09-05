@@ -29,14 +29,14 @@ h1 {
     display: inline-block;
     float: left;
     color: darkkhaki;
-    font-size: 20px;
+    font-size: 50px;
     padding: 20px;
 }
 
 p { display: inline-block;
     float: right;
     color: violet;
-    font-size: 20px;
+    font-size: 50px;
     padding: 20px;
 }
 
@@ -44,6 +44,6 @@ span {
     display: inline-block;
     float: right;
     color: blue;
-    font-size: 20px;
+    font-size: 50px;
     padding: 20px;
 }
